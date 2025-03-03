@@ -1,3 +1,3 @@
-./openssl-operations/cert-data/*
-./openssl-operations/csr-data/*
+openssl-operations/cert-data/*
+openssl-operations/csr-data/*
 .DS_Store

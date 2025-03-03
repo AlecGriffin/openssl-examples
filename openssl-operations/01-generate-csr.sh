@@ -1,0 +1,1 @@
+openssl req -newkey rsa:2080 -nodes -keyout ./csr-data/domain.key -out ./csr-data/domain.csr

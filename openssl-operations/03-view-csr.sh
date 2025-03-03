@@ -1,0 +1,1 @@
+openssl req -text -noout -verify -in ./csr-data/domain.csr

@@ -1,0 +1,1 @@
+openssl verify -verbose -CAFile ca.crt comain.crt
